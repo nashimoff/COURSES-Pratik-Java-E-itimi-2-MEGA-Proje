@@ -1,0 +1,22 @@
+Platformlar
+==================================================
+
+Java SE
+Java EE
+Java ME
+Java Card
+
+Neler yapilabilir?
+==================================================
+
+Bilgi isleme ve mikroservis uygulamalari
+Her turlu kurumsal uygulamalar
+Buyuk veri uygulamalari
+Yapay zeka
+Android Mobil uygulamalari
+Bulut islem (Cloud) uygulamalari
+Oyun programlama
+IOT - nesnelerin interneti
+ 
+
+
