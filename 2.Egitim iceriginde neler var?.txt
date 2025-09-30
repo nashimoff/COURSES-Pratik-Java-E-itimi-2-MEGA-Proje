@@ -1,0 +1,39 @@
+EGITIM ICERIGI
+======================================================
+
+Java 8 den en guncel Java versiyonuna kadar
+Kodlar Java 19 ile yazildi
+Javanin tarihi
+Javanin temel taslari
+Java nasil calisir?
+Javada Merhaba Dunya
+
+======================================================
+
+Javanin calisma mantigi
+Data tipleri
+Degiskenler
+Operatorler
+Akis kontrolleri
+Arrayler
+Donguler
+
+======================================================
+
+Functional Programming (Fonksiyonel programlama)
+Lambda
+Collections
+Streams
+Optional
+
+======================================================
+
+Coktan secmeli sorular
+Kod egzersizleri
+2 buyuk Mega bitirme projesi
+Bol bol pratik
+Yuksek kaliteli profesyonel sunumlar
+
+
+
+
