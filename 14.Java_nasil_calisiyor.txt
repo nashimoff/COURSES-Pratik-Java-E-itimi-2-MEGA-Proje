@@ -1,0 +1,58 @@
+Modern Programming Languages
+========================================================================
+
+Code ---> Compiler ---> Machine Code ----CPU --->
+Console Windows (>Hello World)
+Console LINUX (ERROR)
+
+Java
+========================================================================
+Code ---> Compiler ---> Java Virtual Machine ---> Machine Code 
+Console Windows (>Hello World)
+Console LINUX   (>Hello World)
+
+Java Nasil Calisiyor?
+========================================================================
+Main.java (Java Source Code) [Kaynak Kodu] ---> 
+Java Compiler [Derleyici] ---> 
+Main.class (Java Class File) [Java Makine dili] ---> 
+Program.jar 
+-----------------------------------------------------------
+Java Sanal Makinesi --- Windows, Linux, MacOS
+
+=======================================================
+
+Java programi calistirmak icin?
+
+(JRE) Java Runtime Environment 
+Java Virtual machine, Kutuphaneler
+
+=======================================================
+
+Java yazilim gelistirmek?
+
+(JDK) Java Development Kit      
+(JRE) Java Runtime Environment 
+Java Virtual machine, Kutuphaneler
+Compiler,  Debugger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
