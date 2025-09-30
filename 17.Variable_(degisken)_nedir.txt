@@ -1,0 +1,9 @@
+VARIABLES (DEGISKENLER)
+=========================================================
+
+Bilgisayarlarin hafizalari var
+Bilgisayarlar verileri hafizasinda saklar
+Variables kullanarak hafizada yer reserve ediyoruz
+Her variable kullandigi veri tipini belirtir
+	Tam sayilar, noktali sayilar, metinler, dogrusal vs...
+Variable deger alir ve tekrar degistirilebilir (degisken)
