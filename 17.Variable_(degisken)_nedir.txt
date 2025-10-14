@@ -7,3 +7,23 @@ Variables kullanarak hafizada yer reserve ediyoruz
 Her variable kullandigi veri tipini belirtir
 	Tam sayilar, noktali sayilar, metinler, dogrusal vs...
 Variable deger alir ve tekrar degistirilebilir (degisken)
+
+
+VARIABLES (DECLARATION)
+=========================================================
+
+Hafizada yer tahsis etmek (allocation)
+
+TYPE NAME;
+TIP ISIM;
+
+String kelime;
+int uzunluk;
+
+
+VARIABLES (ASSIGNMENT)
+=========================================================
+
+Declare edilen degiskene veri atama
+Assignment operator(=) (atama operatoru-esittir isareti)
+variable = expression
